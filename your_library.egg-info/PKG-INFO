@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: your_library
+Version: 0.1
+Requires-Dist: poliastro
+Requires-Dist: numpy
+Requires-Dist: astropy

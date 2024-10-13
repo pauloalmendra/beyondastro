@@ -5,7 +5,7 @@ from poliastro.twobody import Orbit
 from astropy import units as u
 from lisa.satellite import Satellite
 from scipy.spatial.transform import Rotation as R
-from sun_sensor import SunSensor
+from sunsensor import SunSensor
 
 # Define the initial time and orbit (Sun-synchronous orbit, 700 km altitude)
 initial_epoch = Time.now()

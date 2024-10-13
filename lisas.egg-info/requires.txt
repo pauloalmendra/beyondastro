@@ -1,0 +1,3 @@
+poliastro
+numpy
+astropy
